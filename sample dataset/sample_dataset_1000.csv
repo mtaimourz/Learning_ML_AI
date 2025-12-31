@@ -1,0 +1,1001 @@
+ID,Name,Age,Gender,Salary,Joining Date,Is Active,Comments
+1,Paul,25,Female,90041.86,2017-01-31,False,Creative
+2,Paul,31,Male,90285.02,2019-05-29,False,Needs Improvement
+3,Rachel,30,Male,84321.65,2022-12-14,False,Hardworking
+4,Bob,45,Male,68189.99,2023-09-05,True,Fast Learner
+5,Eve,34,Male,35428.35,2018-05-19,True,Dedicated
+6,Hannah,23,Other,33952.28,2021-02-02,False,Fast Learner
+7,Oscar,23,Female,72692.5,2021-04-02,False,Needs Improvement
+8,Tina,37,Other,76527.18,2022-04-21,True,Consistent
+9,Steve,22,Male,90689.75,2021-08-26,True,Consistent
+10,Frank,31,Other,100513.77,2018-01-12,True,Consistent
+11,Eve,58,Male,112943.72,2019-08-15,False,Consistent
+12,Tina,28,Male,102775.25,2021-01-11,False,Needs Improvement
+13,Kathy,60,Male,50910.22,2022-07-09,True,Versatile
+14,Kathy,37,Female,107507.61,2018-09-28,False,Analytical
+15,Grace,35,Female,86338.08,2016-08-15,False,Logical
+16,Ivy,44,Female,100295.34,2016-12-03,True,Passionate
+17,Mona,48,Other,77356.14,2018-05-20,True,Punctual
+18,Hannah,60,Male,113400.25,2023-01-11,False,Curious
+19,Eve,49,Male,70912.79,2019-07-09,True,Creative
+20,Steve,51,Female,115556.63,2017-12-26,False,Great Team Player
+21,Alice,45,Female,77455.86,2024-12-29,True,Consistent
+22,Frank,50,Female,68869.09,2021-10-17,False,Creative
+23,Hannah,55,Male,40754.86,2018-06-23,True,Dedicated
+24,Quincy,48,Female,94014.71,2020-08-14,False,Great Team Player
+25,Hannah,43,Male,45871.3,2022-11-08,False,Hardworking
+26,Leo,56,Female,91723.89,2017-01-21,True,Needs Improvement
+27,Rachel,31,Other,30611.33,2020-10-05,False,Needs Improvement
+28,Ivy,60,Male,96583.16,2019-07-06,True,Reliable
+29,Jack,56,Male,67129.22,2021-09-25,False,Motivated
+30,Alice,31,Other,107876.6,2021-05-28,False,Enthusiastic
+31,Alice,21,Female,49054.18,2016-10-06,False,Motivated
+32,David,35,Other,95772.21,2020-01-16,False,Analytical
+33,Nancy,55,Male,34511.01,2018-10-20,True,Curious
+34,David,51,Male,56693.27,2021-09-27,True,Excellent
+35,Charlie,55,Other,50423.68,2022-11-27,False,Punctual
+36,Mona,21,Female,78665.26,2019-01-23,True,Enthusiastic
+37,Nancy,60,Other,101273.14,2021-12-17,True,Dedicated
+38,Jack,30,Male,112397.85,2021-03-24,False,Dedicated
+39,Grace,52,Other,85437.55,2021-04-04,True,Innovative
+40,Grace,23,Other,112166.96,2021-08-06,False,Detail-Oriented
+41,Paul,43,Female,36644.43,2022-05-13,True,Innovative
+42,Jack,59,Female,39325.47,2022-01-01,True,Consistent
+43,Hannah,42,Male,105766.15,2024-04-01,True,Great Team Player
+44,Paul,51,Female,48135.16,2017-04-11,True,Passionate
+45,Ivy,49,Male,110457.93,2016-11-10,False,Punctual
+46,Kathy,60,Male,69365.13,2022-11-04,False,Passionate
+47,Eve,50,Female,95890.1,2015-02-05,False,Enthusiastic
+48,Rachel,57,Other,54463.23,2022-01-15,False,Passionate
+49,Oscar,29,Female,96213.3,2016-05-29,True,Excellent
+50,Alice,51,Other,75330.43,2018-12-09,True,Versatile
+51,Mona,50,Female,49891.34,2018-12-25,False,Fast Learner
+52,Oscar,58,Other,31823.61,2022-03-23,True,Punctual
+53,Kathy,39,Other,84934.8,2024-01-16,False,Detail-Oriented
+54,Kathy,35,Other,95320.43,2015-05-19,False,Versatile
+55,Steve,45,Other,101887.93,2015-01-19,False,Reliable
+56,Tina,28,Female,53590.93,2015-08-08,False,Versatile
+57,Steve,21,Female,54050.9,2022-08-09,False,Punctual
+58,Eve,46,Other,111331.13,2015-05-10,True,Creative
+59,Oscar,23,Female,114324.36,2018-08-13,True,Enthusiastic
+60,Steve,49,Female,119841.28,2023-01-01,False,Versatile
+61,Rachel,54,Female,72422.75,2021-07-09,True,Versatile
+62,Hannah,54,Other,111173.37,2022-03-12,True,Fast Learner
+63,Steve,35,Male,36303.36,2024-07-30,True,Consistent
+64,Eve,45,Other,67167.03,2019-09-04,False,Dedicated
+65,Mona,48,Female,99450.04,2015-07-29,False,Detail-Oriented
+66,Bob,41,Female,107717.94,2024-10-04,True,Innovative
+67,Mona,33,Male,61242.09,2024-12-02,True,Excellent
+68,Grace,22,Other,40186.19,2021-01-18,True,Hardworking
+69,Quincy,49,Female,62555.1,2024-12-20,False,Versatile
+70,Frank,40,Female,109461.11,2019-03-28,True,Passionate
+71,Leo,52,Other,43479.93,2021-11-07,True,Excellent
+72,Steve,41,Female,105389.75,2017-12-01,False,Motivated
+73,Grace,24,Female,75943.94,2018-02-26,True,Logical
+74,Paul,30,Male,30358.24,2021-08-04,True,Reliable
+75,Charlie,28,Other,53001.66,2016-08-27,False,Hardworking
+76,David,30,Male,67038.85,2021-08-03,False,Diligent
+77,Eve,34,Female,51846.61,2021-07-02,False,Reliable
+78,Tina,42,Female,63755.89,2023-01-23,False,Reliable
+79,Kathy,46,Other,90900.96,2016-11-20,False,Reliable
+80,Charlie,20,Female,47065.58,2017-03-05,True,Enthusiastic
+81,Grace,44,Male,67904.73,2023-10-03,True,Diligent
+82,Mona,56,Male,71081.11,2022-04-05,True,Creative
+83,Oscar,29,Male,101040.12,2024-08-05,False,Hardworking
+84,Grace,47,Male,103293.44,2018-08-27,True,Passionate
+85,Rachel,43,Other,40207.11,2015-08-29,False,Excellent
+86,Leo,22,Male,66441.35,2019-11-27,True,Hardworking
+87,Hannah,42,Female,89359.27,2018-04-02,True,Logical
+88,Kathy,57,Other,37108.17,2020-07-27,True,Logical
+89,Quincy,53,Other,96277.9,2019-11-11,False,Great Team Player
+90,Rachel,52,Female,61666.86,2021-11-16,True,Curious
+91,Frank,47,Other,55085.61,2021-05-11,True,Dedicated
+92,Steve,37,Female,104617.47,2023-03-07,False,Excellent
+93,Leo,49,Male,95531.11,2019-01-12,False,Fast Learner
+94,Quincy,24,Other,65212.13,2023-04-26,True,Curious
+95,Hannah,49,Female,68276.26,2016-03-16,True,Passionate
+96,Hannah,48,Female,86471.68,2015-04-07,True,Great Team Player
+97,Steve,49,Other,108104.63,2019-07-29,False,Versatile
+98,Rachel,46,Female,107555.14,2017-12-12,True,Curious
+99,Tina,34,Other,68671.07,2023-11-15,False,Fast Learner
+100,David,56,Other,63658.96,2024-10-31,True,Logical
+101,Frank,46,Male,31793.86,2023-02-09,False,Punctual
+102,Eve,41,Other,41130.59,2021-06-10,False,Punctual
+103,Oscar,46,Male,81608.83,2022-04-02,True,Enthusiastic
+104,Paul,48,Male,108848.62,2015-11-22,True,Dedicated
+105,Steve,37,Other,113880.59,2023-11-11,True,Detail-Oriented
+106,Jack,29,Male,81496.52,2020-09-23,True,Excellent
+107,Steve,28,Male,51983.4,2024-01-05,True,Needs Improvement
+108,Charlie,39,Female,82308.27,2023-10-20,False,Versatile
+109,Charlie,57,Male,31126.62,2016-02-08,False,Hardworking
+110,Paul,32,Female,84928.83,2022-05-12,True,Curious
+111,Tina,37,Male,66702.71,2018-09-13,False,Creative
+112,Steve,43,Other,119726.51,2020-02-24,True,Excellent
+113,Ivy,58,Other,77022.91,2015-03-03,True,Passionate
+114,David,52,Male,110762.74,2016-10-16,False,Detail-Oriented
+115,Jack,55,Female,76466.69,2020-03-23,False,Passionate
+116,Oscar,58,Male,48208.57,2015-10-02,False,Passionate
+117,Steve,41,Female,97559.97,2020-01-06,True,Great Team Player
+118,Oscar,28,Other,88479.02,2015-02-01,False,Versatile
+119,Charlie,55,Other,95390.36,2019-05-20,False,Passionate
+120,Jack,25,Female,98904.78,2022-03-05,False,Innovative
+121,Kathy,44,Other,36831.36,2018-01-24,True,Needs Improvement
+122,Frank,50,Male,72249.0,2021-10-30,False,Passionate
+123,Ivy,32,Other,114662.05,2015-01-09,False,Consistent
+124,Bob,47,Female,61744.59,2019-02-25,True,Great Team Player
+125,Paul,24,Male,68675.71,2015-08-08,True,Fast Learner
+126,Quincy,59,Other,112821.76,2015-05-30,True,Curious
+127,David,24,Male,103545.68,2021-05-24,True,Fast Learner
+128,Nancy,60,Other,87254.37,2017-05-18,True,Motivated
+129,Charlie,60,Female,88888.65,2022-10-18,True,Curious
+130,Grace,50,Male,102641.93,2018-09-22,False,Consistent
+131,Paul,31,Other,88904.89,2019-03-28,True,Logical
+132,Nancy,26,Male,112266.19,2017-02-01,False,Punctual
+133,Hannah,24,Female,46374.47,2023-03-20,False,Versatile
+134,Grace,41,Male,97881.99,2018-03-15,False,Diligent
+135,Charlie,58,Female,83593.3,2020-01-23,False,Reliable
+136,Jack,56,Male,33086.06,2021-07-12,True,Creative
+137,Charlie,58,Other,106750.44,2024-12-29,True,Detail-Oriented
+138,Ivy,57,Other,97218.55,2020-01-04,False,Great Team Player
+139,Steve,30,Male,34777.42,2021-01-10,True,Innovative
+140,Frank,39,Male,92169.22,2024-11-26,True,Analytical
+141,Hannah,44,Female,81143.85,2021-09-09,False,Reliable
+142,Jack,51,Other,79962.06,2022-10-27,False,Creative
+143,Rachel,53,Female,92768.09,2021-10-28,False,Detail-Oriented
+144,Jack,51,Female,43328.44,2017-02-07,False,Punctual
+145,Rachel,25,Male,57054.72,2015-03-08,False,Punctual
+146,Quincy,25,Male,86920.55,2017-01-23,True,Detail-Oriented
+147,Rachel,37,Female,54476.82,2020-06-29,True,Curious
+148,Charlie,42,Male,48889.55,2020-04-29,False,Logical
+149,Kathy,57,Female,102948.6,2023-12-20,True,Logical
+150,Grace,31,Other,57973.75,2020-09-14,False,Dedicated
+151,Eve,23,Male,98412.88,2024-07-11,False,Versatile
+152,Hannah,46,Male,70556.4,2021-10-27,True,Passionate
+153,Hannah,20,Female,56873.14,2019-05-11,True,Needs Improvement
+154,Ivy,59,Male,49556.36,2016-02-09,False,Punctual
+155,Charlie,26,Other,103577.53,2020-07-01,True,Curious
+156,Leo,53,Other,115233.69,2019-10-20,True,Versatile
+157,Nancy,53,Other,111527.59,2016-01-06,False,Punctual
+158,Oscar,55,Male,98391.72,2015-05-19,False,Versatile
+159,David,60,Male,41579.27,2019-01-16,True,Analytical
+160,Ivy,29,Male,63347.44,2019-12-05,False,Detail-Oriented
+161,Jack,40,Male,109080.05,2022-09-29,False,Excellent
+162,Kathy,23,Male,46685.69,2017-04-14,True,Creative
+163,Rachel,43,Female,39384.77,2022-11-16,False,Detail-Oriented
+164,Steve,60,Other,48227.17,2019-12-09,True,Innovative
+165,David,45,Other,95539.17,2017-04-11,False,Analytical
+166,Oscar,26,Other,33428.96,2018-06-08,False,Versatile
+167,Rachel,36,Other,53789.51,2017-03-29,False,Motivated
+168,Ivy,56,Female,104832.38,2020-04-15,True,Fast Learner
+169,Alice,52,Other,73754.21,2017-01-20,True,Excellent
+170,David,47,Female,119435.93,2020-01-11,False,Punctual
+171,Jack,53,Male,71927.06,2017-12-17,True,Creative
+172,Kathy,51,Female,104475.21,2018-03-13,True,Innovative
+173,Kathy,23,Female,93591.54,2020-04-01,True,Consistent
+174,Bob,35,Other,57021.8,2020-10-06,False,Needs Improvement
+175,Oscar,27,Male,116157.22,2019-07-28,True,Punctual
+176,David,25,Other,79945.77,2024-04-23,True,Analytical
+177,Quincy,49,Male,33824.15,2023-06-28,True,Motivated
+178,Paul,54,Other,30023.46,2019-12-21,True,Fast Learner
+179,Ivy,55,Male,66990.24,2016-09-12,False,Detail-Oriented
+180,Ivy,37,Other,42510.36,2018-10-15,False,Diligent
+181,Steve,21,Female,82868.39,2019-10-08,False,Versatile
+182,Alice,23,Female,52298.17,2015-03-04,True,Dedicated
+183,Rachel,25,Other,54102.25,2019-03-26,False,Motivated
+184,Frank,46,Other,81966.02,2024-11-26,False,Versatile
+185,Steve,22,Female,40389.58,2017-03-25,False,Logical
+186,Rachel,58,Other,116901.14,2015-04-20,True,Excellent
+187,Kathy,40,Other,52192.21,2023-04-29,False,Punctual
+188,Tina,53,Other,47728.22,2023-06-01,False,Detail-Oriented
+189,Kathy,23,Other,102468.44,2015-02-17,True,Innovative
+190,Eve,40,Female,74030.08,2020-09-16,True,Analytical
+191,Hannah,38,Other,37527.74,2017-05-21,True,Versatile
+192,Grace,55,Male,90548.9,2015-05-11,False,Hardworking
+193,Rachel,42,Other,62026.74,2020-03-30,True,Fast Learner
+194,Jack,23,Other,44663.92,2022-03-15,True,Creative
+195,David,58,Male,69728.3,2019-10-31,True,Great Team Player
+196,Charlie,45,Female,32149.21,2022-10-23,True,Fast Learner
+197,Charlie,21,Female,111318.73,2016-09-05,True,Passionate
+198,David,58,Male,99686.58,2015-06-03,True,Detail-Oriented
+199,Tina,34,Other,99963.28,2017-11-26,True,Curious
+200,Tina,44,Female,65449.33,2018-05-19,True,Detail-Oriented
+201,Hannah,52,Male,31012.67,2016-01-27,False,Motivated
+202,Hannah,27,Other,44835.4,2024-05-08,True,Dedicated
+203,Rachel,33,Female,107690.25,2022-06-27,False,Logical
+204,Oscar,36,Other,84303.29,2022-06-02,True,Passionate
+205,Hannah,34,Other,91176.97,2019-01-28,False,Great Team Player
+206,Paul,23,Other,94828.68,2018-01-29,True,Hardworking
+207,Tina,45,Other,106110.91,2024-11-27,False,Enthusiastic
+208,Kathy,38,Male,109396.51,2020-09-09,True,Analytical
+209,Ivy,29,Other,107160.69,2019-06-02,True,Diligent
+210,Rachel,50,Other,117626.89,2018-01-08,True,Innovative
+211,David,58,Female,100099.47,2019-01-10,False,Fast Learner
+212,Kathy,53,Female,41674.9,2018-01-03,True,Motivated
+213,Grace,41,Female,64074.67,2020-11-03,True,Needs Improvement
+214,Jack,58,Male,64456.96,2015-12-25,False,Creative
+215,Mona,59,Other,65030.05,2018-11-07,True,Versatile
+216,Ivy,45,Male,90918.58,2018-07-18,True,Hardworking
+217,Jack,51,Other,45780.55,2015-01-15,True,Versatile
+218,David,34,Male,75262.19,2020-06-23,True,Motivated
+219,Grace,21,Other,59087.08,2015-08-31,False,Excellent
+220,Bob,36,Male,79602.87,2016-11-24,False,Logical
+221,Bob,32,Other,36429.3,2024-08-02,False,Analytical
+222,Kathy,24,Female,56117.04,2022-04-24,True,Creative
+223,Nancy,45,Male,47545.0,2015-11-22,True,Hardworking
+224,Mona,50,Female,53998.32,2020-01-22,False,Excellent
+225,Rachel,48,Female,46477.92,2020-07-13,True,Enthusiastic
+226,Eve,42,Other,72710.24,2019-05-03,False,Dedicated
+227,Quincy,54,Female,103765.62,2022-02-13,True,Fast Learner
+228,Bob,60,Female,36769.78,2024-11-18,False,Punctual
+229,Quincy,22,Other,108258.86,2017-12-21,False,Innovative
+230,Kathy,52,Female,66784.98,2019-09-03,False,Diligent
+231,Oscar,32,Male,119349.61,2023-03-25,False,Diligent
+232,Jack,40,Female,58671.18,2019-04-18,False,Hardworking
+233,Steve,36,Other,81557.42,2018-12-27,True,Punctual
+234,Ivy,52,Male,114634.72,2024-10-31,False,Enthusiastic
+235,Nancy,35,Other,71734.48,2021-02-20,True,Logical
+236,Tina,37,Other,109299.86,2021-10-26,True,Enthusiastic
+237,Eve,47,Female,55279.08,2022-06-29,True,Excellent
+238,Leo,20,Female,52566.07,2018-12-31,False,Punctual
+239,David,33,Other,84584.56,2016-03-20,False,Versatile
+240,Bob,49,Male,75434.25,2016-10-05,False,Needs Improvement
+241,Steve,28,Female,94843.81,2023-01-31,False,Passionate
+242,Jack,34,Female,61025.53,2015-12-03,False,Creative
+243,Steve,37,Other,44253.09,2016-07-27,False,Consistent
+244,Paul,29,Other,48292.91,2024-04-06,False,Creative
+245,Kathy,56,Female,35067.83,2022-07-09,False,Analytical
+246,Kathy,39,Male,51852.37,2015-03-15,True,Analytical
+247,Jack,38,Male,40318.33,2016-04-12,True,Analytical
+248,Kathy,44,Female,41816.48,2019-10-02,False,Analytical
+249,Quincy,59,Female,56181.6,2020-07-05,False,Enthusiastic
+250,Eve,39,Other,36282.92,2020-05-05,True,Diligent
+251,Paul,60,Other,101985.75,2018-03-19,True,Creative
+252,Mona,49,Male,74405.49,2017-11-09,False,Excellent
+253,Paul,24,Female,89012.27,2016-11-06,False,Needs Improvement
+254,Hannah,48,Male,61291.76,2021-07-31,True,Diligent
+255,Kathy,57,Female,74894.61,2021-06-15,True,Needs Improvement
+256,Bob,43,Female,43644.33,2020-05-23,False,Diligent
+257,Charlie,32,Female,113639.28,2018-11-30,True,Needs Improvement
+258,Nancy,59,Female,81778.42,2015-05-12,False,Versatile
+259,Alice,36,Female,88023.15,2017-05-06,False,Curious
+260,Eve,57,Other,84893.78,2016-07-17,False,Innovative
+261,Mona,32,Other,64327.42,2023-12-12,False,Innovative
+262,Steve,31,Male,83272.11,2023-06-03,False,Consistent
+263,Quincy,33,Other,82204.93,2022-02-02,False,Hardworking
+264,Jack,34,Male,67078.54,2016-05-26,True,Passionate
+265,Jack,45,Other,91355.33,2024-05-02,False,Diligent
+266,Steve,48,Female,67318.03,2019-11-17,False,Versatile
+267,Rachel,54,Male,118796.97,2020-10-16,False,Diligent
+268,Eve,29,Female,81403.5,2019-12-29,True,Fast Learner
+269,Hannah,54,Other,75495.54,2019-01-26,True,Diligent
+270,Nancy,57,Other,91815.11,2017-04-10,True,Detail-Oriented
+271,David,25,Male,64184.82,2019-08-08,False,Reliable
+272,Grace,25,Other,70006.97,2016-09-07,True,Passionate
+273,Frank,46,Other,65077.6,2019-02-13,False,Consistent
+274,Quincy,41,Male,107407.98,2015-10-07,True,Hardworking
+275,Bob,54,Female,38790.04,2015-01-12,False,Curious
+276,Steve,54,Male,102573.33,2023-11-16,True,Logical
+277,Mona,51,Other,84703.24,2015-06-06,False,Hardworking
+278,Quincy,30,Female,105478.94,2024-09-17,False,Versatile
+279,Kathy,39,Other,49942.99,2016-01-24,False,Innovative
+280,David,43,Other,99973.69,2018-11-20,False,Punctual
+281,David,58,Female,111768.9,2016-11-20,False,Curious
+282,Kathy,29,Female,78090.99,2021-04-20,True,Versatile
+283,Jack,22,Male,77582.37,2017-11-21,False,Consistent
+284,Nancy,21,Female,97681.07,2023-09-02,True,Innovative
+285,Steve,32,Male,90962.11,2016-04-04,False,Detail-Oriented
+286,David,28,Female,32053.92,2023-06-16,False,Enthusiastic
+287,Oscar,49,Other,73862.4,2020-07-25,True,Hardworking
+288,Eve,36,Male,32205.94,2022-09-24,False,Enthusiastic
+289,Nancy,59,Male,62225.55,2024-10-11,True,Enthusiastic
+290,Eve,29,Other,113224.22,2018-05-12,True,Great Team Player
+291,Grace,58,Female,94981.41,2023-05-07,True,Motivated
+292,Bob,46,Other,31662.88,2018-10-30,False,Detail-Oriented
+293,Charlie,41,Female,68792.31,2018-05-14,True,Curious
+294,Rachel,55,Male,68021.72,2024-03-15,False,Innovative
+295,Oscar,51,Other,55321.24,2019-01-13,True,Innovative
+296,Kathy,30,Female,98932.47,2017-10-03,False,Diligent
+297,Eve,40,Male,43560.2,2017-06-11,True,Consistent
+298,Grace,21,Other,77323.07,2024-12-07,True,Innovative
+299,Quincy,30,Male,117247.53,2024-03-19,False,Great Team Player
+300,Oscar,44,Other,99099.58,2020-02-28,True,Curious
+301,Grace,37,Other,85373.51,2019-12-01,False,Enthusiastic
+302,Grace,24,Female,30201.24,2019-03-12,False,Consistent
+303,Leo,35,Male,44684.6,2020-10-01,False,Needs Improvement
+304,Rachel,31,Other,90775.13,2016-08-08,False,Needs Improvement
+305,Ivy,34,Other,89985.56,2015-09-05,False,Analytical
+306,Frank,44,Female,71397.63,2017-09-25,False,Diligent
+307,Mona,29,Male,96080.96,2024-11-11,True,Diligent
+308,Leo,20,Other,88288.09,2022-06-21,False,Motivated
+309,Quincy,36,Male,96447.21,2022-01-16,True,Passionate
+310,Nancy,21,Male,94550.46,2022-01-03,True,Motivated
+311,Charlie,46,Female,62178.65,2023-11-03,True,Reliable
+312,Frank,25,Male,104426.01,2015-06-26,True,Passionate
+313,Bob,33,Male,48516.53,2021-08-13,False,Hardworking
+314,Oscar,51,Male,115522.49,2022-02-07,True,Curious
+315,Mona,38,Female,92788.46,2016-06-02,False,Diligent
+316,Rachel,28,Female,42051.81,2019-08-10,False,Punctual
+317,Steve,40,Other,77537.19,2015-12-19,False,Fast Learner
+318,Rachel,54,Male,92543.08,2023-05-06,True,Passionate
+319,Bob,23,Other,78682.33,2020-08-05,True,Analytical
+320,Ivy,25,Female,40192.48,2023-02-14,False,Fast Learner
+321,Quincy,47,Other,56506.32,2018-05-26,False,Fast Learner
+322,Jack,21,Other,107059.14,2021-11-18,False,Creative
+323,Kathy,20,Male,81810.88,2023-07-13,True,Motivated
+324,Rachel,27,Male,65743.38,2021-07-28,True,Passionate
+325,Ivy,36,Female,106210.94,2020-02-28,False,Curious
+326,Rachel,21,Male,60604.11,2020-03-07,True,Diligent
+327,Grace,56,Other,98336.8,2021-05-23,True,Punctual
+328,Bob,59,Female,63687.88,2020-10-06,False,Fast Learner
+329,Alice,29,Other,84810.01,2021-11-13,False,Logical
+330,Eve,29,Male,43786.87,2018-01-10,False,Great Team Player
+331,Tina,56,Male,103151.45,2021-07-21,False,Analytical
+332,Grace,35,Female,48817.36,2024-04-04,False,Passionate
+333,Nancy,46,Female,53384.98,2022-01-14,True,Hardworking
+334,Quincy,52,Female,54905.14,2020-12-13,False,Diligent
+335,Leo,58,Other,77865.51,2019-09-15,True,Passionate
+336,Kathy,47,Male,84105.66,2017-07-08,True,Versatile
+337,Rachel,32,Female,119158.86,2021-09-24,True,Diligent
+338,Quincy,51,Female,93539.01,2021-04-14,False,Enthusiastic
+339,Mona,21,Other,68801.31,2022-12-23,False,Diligent
+340,Hannah,56,Other,32298.89,2019-05-13,True,Diligent
+341,Paul,44,Male,94315.04,2015-03-29,False,Motivated
+342,Rachel,33,Female,108055.6,2023-03-12,True,Dedicated
+343,Rachel,39,Other,52787.19,2018-12-03,True,Consistent
+344,Mona,42,Other,45121.67,2015-09-25,True,Fast Learner
+345,David,59,Male,30226.44,2023-12-02,False,Innovative
+346,Charlie,32,Male,94838.64,2018-07-22,True,Dedicated
+347,Oscar,56,Female,35305.09,2020-12-23,False,Curious
+348,Grace,58,Female,53525.88,2023-04-08,False,Great Team Player
+349,Alice,26,Female,74866.74,2017-04-28,False,Great Team Player
+350,Steve,22,Female,80601.49,2016-06-26,True,Excellent
+351,Grace,21,Other,80981.08,2022-04-21,False,Punctual
+352,Tina,20,Male,76731.61,2017-12-18,False,Dedicated
+353,Hannah,23,Male,58724.97,2017-02-05,True,Diligent
+354,Bob,34,Female,59102.23,2016-03-15,False,Consistent
+355,Charlie,31,Other,42413.55,2020-07-05,False,Reliable
+356,Charlie,35,Other,54185.75,2016-08-14,False,Great Team Player
+357,Rachel,31,Other,41007.68,2021-12-22,True,Punctual
+358,Ivy,45,Female,76742.82,2020-07-17,True,Versatile
+359,Paul,51,Male,37883.96,2018-05-26,True,Innovative
+360,Steve,51,Male,49255.34,2018-01-01,False,Innovative
+361,Mona,52,Female,119880.78,2022-05-19,True,Logical
+362,Mona,56,Male,84731.65,2017-04-09,False,Great Team Player
+363,Paul,23,Other,58335.72,2021-03-15,False,Enthusiastic
+364,Oscar,37,Female,30771.5,2023-01-06,True,Motivated
+365,Kathy,58,Other,71694.22,2018-09-20,True,Creative
+366,Jack,30,Other,82077.62,2021-03-15,False,Enthusiastic
+367,Oscar,34,Male,80613.53,2019-06-05,False,Creative
+368,Frank,48,Other,76990.9,2021-08-18,True,Needs Improvement
+369,Kathy,33,Male,41336.5,2022-12-15,True,Motivated
+370,Steve,33,Other,79728.19,2018-10-12,False,Consistent
+371,David,59,Other,105741.69,2021-02-24,True,Innovative
+372,Leo,32,Other,62713.99,2022-12-09,True,Motivated
+373,Alice,45,Other,39037.84,2024-03-23,True,Dedicated
+374,Frank,33,Male,70076.67,2017-01-05,True,Creative
+375,Alice,41,Male,34216.41,2024-08-14,True,Innovative
+376,David,51,Female,40638.52,2020-10-14,False,Punctual
+377,Quincy,50,Female,118253.57,2016-06-07,False,Innovative
+378,Leo,42,Other,58931.23,2018-07-12,False,Needs Improvement
+379,David,46,Male,83378.9,2022-01-04,False,Diligent
+380,Charlie,20,Other,45937.47,2019-01-19,False,Consistent
+381,David,49,Other,63392.71,2024-11-15,True,Passionate
+382,Leo,54,Male,74219.92,2022-06-30,False,Analytical
+383,Tina,36,Female,66806.55,2015-03-12,False,Innovative
+384,Alice,44,Female,118027.36,2017-10-25,False,Curious
+385,Tina,42,Male,83080.43,2021-05-25,True,Creative
+386,Eve,28,Female,43646.72,2015-04-28,False,Passionate
+387,Bob,42,Female,117202.01,2023-02-10,True,Innovative
+388,Mona,48,Female,102574.11,2017-07-08,True,Enthusiastic
+389,Quincy,24,Female,67609.35,2016-07-09,False,Hardworking
+390,Mona,55,Male,60442.23,2019-04-18,False,Motivated
+391,Mona,20,Female,113471.55,2015-04-08,True,Versatile
+392,Oscar,34,Female,57260.12,2017-05-02,False,Enthusiastic
+393,Tina,50,Female,100987.51,2016-06-14,False,Needs Improvement
+394,David,43,Male,58677.11,2022-05-07,True,Needs Improvement
+395,Jack,44,Female,97748.51,2017-03-03,True,Enthusiastic
+396,Steve,20,Female,107794.77,2020-03-04,False,Innovative
+397,Ivy,56,Other,101138.08,2016-05-05,True,Analytical
+398,Alice,33,Female,58302.53,2019-05-24,False,Innovative
+399,Frank,32,Male,34061.69,2015-01-03,False,Diligent
+400,Mona,55,Other,50870.09,2018-01-13,True,Great Team Player
+401,Oscar,47,Other,116044.99,2017-09-21,False,Passionate
+402,Hannah,49,Other,116449.0,2017-11-05,False,Dedicated
+403,Bob,54,Other,94225.59,2019-07-24,False,Hardworking
+404,Leo,56,Male,66803.56,2015-08-20,False,Enthusiastic
+405,Jack,43,Male,72826.55,2017-04-07,True,Curious
+406,Mona,27,Male,114070.88,2016-08-15,False,Hardworking
+407,Mona,40,Male,79223.4,2017-11-06,False,Creative
+408,Frank,58,Other,39038.8,2020-08-17,False,Versatile
+409,Oscar,57,Male,109846.67,2018-02-19,False,Fast Learner
+410,Leo,58,Female,54710.71,2017-05-27,True,Creative
+411,Kathy,51,Female,116864.26,2021-01-10,True,Punctual
+412,Hannah,20,Male,33919.86,2015-01-04,False,Motivated
+413,Paul,38,Male,81857.75,2022-10-20,False,Logical
+414,Steve,50,Other,48100.01,2020-03-20,True,Needs Improvement
+415,Quincy,33,Male,91213.12,2020-07-29,True,Creative
+416,Rachel,32,Female,55909.75,2019-06-06,True,Excellent
+417,Steve,25,Other,83054.65,2016-09-21,True,Great Team Player
+418,Paul,37,Male,83534.19,2018-04-27,True,Punctual
+419,Bob,31,Male,54608.01,2015-08-12,False,Enthusiastic
+420,Rachel,51,Male,78047.78,2018-07-07,False,Curious
+421,Alice,43,Male,73239.23,2021-12-10,False,Logical
+422,Nancy,38,Male,89776.6,2015-12-20,False,Dedicated
+423,Alice,43,Male,45290.45,2023-04-18,False,Dedicated
+424,Quincy,34,Male,90520.63,2020-11-15,False,Motivated
+425,Jack,48,Female,51446.81,2023-01-19,True,Hardworking
+426,David,23,Female,102280.8,2022-06-01,False,Fast Learner
+427,Bob,42,Female,58052.73,2017-09-15,False,Curious
+428,Leo,40,Female,76536.5,2015-01-08,False,Enthusiastic
+429,Hannah,54,Female,87943.0,2021-02-17,False,Consistent
+430,Tina,47,Male,87512.41,2018-10-08,True,Innovative
+431,Charlie,47,Female,84912.36,2022-08-29,False,Excellent
+432,Tina,59,Male,43238.65,2018-08-26,False,Detail-Oriented
+433,Rachel,58,Male,56271.7,2024-08-09,False,Analytical
+434,Jack,58,Female,101535.33,2018-11-07,False,Diligent
+435,Oscar,50,Female,49660.22,2018-07-13,True,Creative
+436,Charlie,50,Female,76917.22,2023-08-27,True,Enthusiastic
+437,Charlie,54,Other,30689.53,2018-11-07,True,Enthusiastic
+438,Eve,24,Female,78769.93,2022-04-22,True,Excellent
+439,Hannah,56,Female,110620.78,2024-06-23,True,Dedicated
+440,Oscar,33,Other,104759.66,2018-11-18,True,Innovative
+441,Frank,20,Female,118176.83,2016-06-30,False,Passionate
+442,Nancy,44,Male,101416.35,2020-07-23,False,Passionate
+443,Alice,32,Female,87592.3,2015-04-26,False,Creative
+444,Nancy,50,Female,31201.68,2018-12-21,True,Logical
+445,Charlie,50,Female,103275.45,2019-04-12,False,Excellent
+446,David,47,Male,79272.33,2021-01-17,True,Logical
+447,Quincy,60,Male,31546.96,2024-01-04,True,Excellent
+448,Mona,45,Male,114920.81,2023-10-06,False,Logical
+449,Jack,27,Male,94819.62,2024-12-05,True,Hardworking
+450,Grace,47,Female,108909.96,2016-08-09,True,Dedicated
+451,Hannah,25,Male,97851.61,2023-09-03,True,Enthusiastic
+452,Alice,38,Other,83437.6,2015-08-20,False,Curious
+453,Bob,36,Male,80404.06,2020-06-15,False,Motivated
+454,Grace,45,Male,83315.87,2018-12-02,False,Motivated
+455,Tina,30,Female,44787.32,2024-06-30,False,Consistent
+456,Quincy,33,Male,110262.93,2015-04-11,True,Great Team Player
+457,Ivy,43,Male,42159.13,2023-05-20,True,Needs Improvement
+458,Steve,25,Female,44384.58,2022-08-06,False,Needs Improvement
+459,Paul,40,Other,57761.5,2022-10-23,True,Dedicated
+460,Eve,21,Male,118171.64,2017-11-23,True,Consistent
+461,Tina,57,Male,98992.85,2015-01-22,True,Detail-Oriented
+462,Bob,28,Male,105046.84,2018-06-27,False,Fast Learner
+463,Alice,51,Female,67071.49,2020-07-16,False,Excellent
+464,Quincy,20,Other,48387.34,2016-10-13,True,Analytical
+465,Quincy,51,Male,67233.47,2023-11-09,True,Diligent
+466,Tina,26,Female,94238.86,2024-10-12,True,Detail-Oriented
+467,Eve,58,Male,46216.0,2023-08-17,True,Diligent
+468,Ivy,39,Female,92761.1,2020-02-29,True,Dedicated
+469,Oscar,26,Other,62513.78,2020-08-05,True,Needs Improvement
+470,Nancy,27,Female,109216.77,2019-07-21,True,Logical
+471,Rachel,52,Other,114229.25,2023-01-29,True,Diligent
+472,Charlie,56,Female,87224.5,2016-06-29,True,Curious
+473,Charlie,29,Male,108016.39,2022-08-08,True,Dedicated
+474,Alice,42,Female,53923.22,2016-05-22,True,Enthusiastic
+475,Quincy,50,Female,55389.28,2021-10-30,False,Hardworking
+476,David,51,Male,86280.12,2017-11-20,True,Consistent
+477,Grace,42,Female,38445.39,2022-11-14,True,Dedicated
+478,Steve,40,Other,42779.64,2017-06-30,True,Analytical
+479,Grace,26,Other,54740.08,2017-05-06,True,Logical
+480,David,31,Female,92793.24,2015-11-27,True,Great Team Player
+481,Grace,38,Male,114487.43,2018-08-05,False,Logical
+482,Charlie,30,Other,86875.1,2021-03-13,True,Motivated
+483,Nancy,32,Female,67468.14,2019-02-15,False,Diligent
+484,David,20,Other,33184.64,2021-06-26,False,Detail-Oriented
+485,Steve,37,Female,107959.34,2016-07-15,True,Needs Improvement
+486,Jack,51,Male,86532.62,2020-11-12,True,Motivated
+487,Eve,39,Other,92508.01,2024-09-27,True,Curious
+488,Eve,33,Male,94669.07,2024-12-17,True,Creative
+489,Paul,51,Female,99986.93,2019-11-28,True,Reliable
+490,Hannah,56,Female,73692.25,2021-11-12,False,Diligent
+491,Alice,27,Male,70662.49,2023-07-01,True,Enthusiastic
+492,Jack,26,Female,78521.21,2019-08-29,False,Fast Learner
+493,Bob,35,Male,103418.3,2016-05-18,True,Fast Learner
+494,Kathy,49,Male,71346.47,2024-09-04,False,Curious
+495,Quincy,28,Other,38329.95,2022-02-04,True,Passionate
+496,David,51,Female,71331.18,2023-05-31,False,Punctual
+497,Leo,30,Other,86471.96,2020-05-18,True,Reliable
+498,Charlie,35,Male,71984.79,2018-12-03,True,Analytical
+499,Tina,48,Other,50919.15,2019-07-17,True,Great Team Player
+500,Mona,50,Male,49243.17,2018-11-28,True,Excellent
+501,Paul,52,Other,72231.63,2023-07-03,False,Detail-Oriented
+502,Jack,43,Other,88385.99,2021-09-27,False,Excellent
+503,Frank,54,Female,58823.88,2016-11-22,False,Versatile
+504,Ivy,54,Female,84607.57,2022-11-24,True,Creative
+505,Mona,29,Male,62545.92,2018-09-01,True,Reliable
+506,Mona,52,Female,83875.96,2021-06-02,True,Excellent
+507,Tina,22,Female,35180.39,2015-10-25,False,Detail-Oriented
+508,Kathy,50,Other,56654.48,2022-07-25,False,Great Team Player
+509,Mona,31,Female,35917.66,2020-03-17,True,Diligent
+510,Eve,39,Female,67877.9,2024-11-03,True,Analytical
+511,Tina,43,Male,54819.41,2015-01-16,True,Reliable
+512,Bob,59,Male,44332.1,2022-03-17,False,Innovative
+513,Oscar,57,Other,74879.55,2021-08-18,True,Reliable
+514,Paul,45,Female,60098.8,2017-11-03,True,Motivated
+515,Tina,26,Other,106248.85,2019-04-15,True,Creative
+516,Oscar,34,Other,91306.67,2021-12-04,True,Punctual
+517,Bob,46,Male,76221.93,2021-11-12,True,Passionate
+518,Jack,43,Female,62557.32,2021-06-30,False,Consistent
+519,Rachel,45,Female,91401.01,2015-05-16,True,Consistent
+520,Frank,58,Other,30305.81,2018-10-19,True,Passionate
+521,Quincy,51,Male,87371.7,2015-11-14,False,Versatile
+522,Ivy,31,Female,94855.87,2018-01-07,False,Curious
+523,Frank,58,Female,98848.99,2022-01-14,True,Diligent
+524,Eve,49,Male,37105.08,2015-01-30,False,Diligent
+525,Grace,40,Female,91993.82,2016-08-10,False,Consistent
+526,Kathy,47,Male,37562.6,2015-03-02,False,Innovative
+527,Oscar,21,Other,39099.68,2024-06-12,True,Enthusiastic
+528,David,43,Male,72114.03,2022-06-12,True,Fast Learner
+529,Alice,37,Other,101456.65,2020-11-24,True,Detail-Oriented
+530,Mona,26,Female,68288.65,2016-01-23,True,Diligent
+531,Nancy,22,Female,67071.78,2024-05-07,True,Consistent
+532,Kathy,24,Male,46593.79,2016-09-05,False,Excellent
+533,Oscar,26,Male,80735.56,2021-08-31,False,Passionate
+534,Eve,21,Male,83958.98,2017-05-21,False,Excellent
+535,Bob,32,Male,113372.32,2023-03-26,True,Logical
+536,Eve,22,Female,82030.87,2023-02-12,False,Creative
+537,Steve,55,Female,77204.77,2015-02-02,False,Excellent
+538,Paul,48,Other,37429.39,2016-03-18,True,Dedicated
+539,Paul,53,Other,41535.59,2021-12-01,False,Curious
+540,Bob,38,Female,98644.37,2024-08-20,True,Passionate
+541,Nancy,36,Male,107096.95,2023-06-10,False,Curious
+542,Bob,29,Female,101907.36,2024-06-08,False,Needs Improvement
+543,Jack,39,Other,80880.51,2021-08-01,True,Punctual
+544,David,49,Male,113217.23,2023-10-17,True,Needs Improvement
+545,Bob,25,Other,80626.82,2015-09-20,True,Punctual
+546,Eve,38,Male,115895.0,2016-11-08,False,Punctual
+547,Mona,48,Male,64557.52,2020-02-27,False,Punctual
+548,Charlie,31,Male,78920.41,2023-10-18,False,Versatile
+549,Eve,38,Male,73632.88,2024-08-27,False,Great Team Player
+550,Frank,46,Other,44002.75,2015-08-26,True,Consistent
+551,Alice,56,Other,80689.19,2015-08-31,True,Excellent
+552,Kathy,28,Female,77928.45,2024-04-15,False,Fast Learner
+553,Kathy,51,Male,75383.4,2017-11-29,True,Detail-Oriented
+554,Leo,56,Male,40414.97,2021-05-30,True,Hardworking
+555,Rachel,26,Female,34262.47,2017-11-10,True,Punctual
+556,Kathy,47,Male,84888.85,2023-07-07,True,Excellent
+557,Steve,24,Male,43136.82,2021-09-09,False,Hardworking
+558,Quincy,48,Other,68802.69,2016-06-23,False,Curious
+559,Rachel,40,Male,32160.29,2021-02-25,False,Needs Improvement
+560,Hannah,39,Female,98793.39,2024-07-13,False,Great Team Player
+561,David,50,Female,63359.63,2023-01-21,True,Innovative
+562,Paul,46,Other,105845.98,2021-09-17,True,Logical
+563,Alice,54,Male,112098.46,2019-09-01,True,Logical
+564,Tina,35,Female,39129.4,2022-03-07,True,Analytical
+565,Frank,38,Other,73296.94,2020-02-25,True,Great Team Player
+566,Frank,60,Male,56096.48,2017-01-31,False,Curious
+567,Grace,37,Female,30536.99,2020-03-24,True,Analytical
+568,Grace,46,Male,40896.89,2017-08-18,False,Detail-Oriented
+569,Mona,28,Female,83543.6,2018-05-29,False,Punctual
+570,Hannah,44,Other,56812.66,2016-03-13,False,Diligent
+571,Ivy,23,Other,106486.75,2016-01-19,True,Punctual
+572,Leo,41,Other,108958.5,2020-05-27,True,Reliable
+573,Nancy,38,Female,94565.16,2021-12-11,True,Great Team Player
+574,Bob,34,Other,55528.28,2016-01-10,True,Dedicated
+575,Ivy,60,Male,51654.87,2019-04-04,True,Diligent
+576,Frank,27,Female,43301.04,2019-10-15,True,Curious
+577,Mona,50,Male,63902.17,2018-03-05,True,Great Team Player
+578,Jack,45,Other,47363.8,2017-06-25,False,Motivated
+579,Bob,25,Female,111830.63,2018-01-31,True,Motivated
+580,Leo,51,Female,42167.73,2022-07-14,True,Needs Improvement
+581,Eve,29,Female,82736.28,2015-05-04,True,Versatile
+582,Hannah,50,Other,94728.63,2023-09-20,False,Consistent
+583,Grace,52,Female,118727.52,2021-02-01,False,Needs Improvement
+584,Alice,56,Other,79677.8,2016-03-09,False,Curious
+585,Jack,39,Male,32369.28,2018-04-15,False,Diligent
+586,Tina,38,Female,94918.76,2024-07-01,True,Enthusiastic
+587,Quincy,52,Other,119589.99,2018-07-12,True,Versatile
+588,Steve,37,Female,102262.64,2019-06-29,True,Analytical
+589,Oscar,46,Other,49792.47,2024-02-10,False,Creative
+590,Frank,26,Female,72675.81,2021-12-17,True,Analytical
+591,Steve,44,Male,62045.05,2022-05-18,False,Diligent
+592,Tina,28,Other,85956.6,2015-02-17,True,Great Team Player
+593,Jack,49,Female,94036.86,2015-10-16,True,Punctual
+594,Alice,41,Male,54281.29,2018-06-03,True,Logical
+595,Frank,20,Male,70147.3,2015-06-11,True,Innovative
+596,Grace,60,Other,112264.1,2022-02-25,True,Reliable
+597,Charlie,38,Male,85339.86,2019-02-13,False,Excellent
+598,Mona,37,Other,44770.97,2024-05-29,False,Punctual
+599,Quincy,53,Other,117094.78,2017-01-24,False,Fast Learner
+600,Ivy,27,Other,77172.09,2023-06-07,False,Excellent
+601,Frank,37,Female,109314.58,2020-12-20,False,Hardworking
+602,David,52,Female,32502.18,2022-11-22,False,Curious
+603,Frank,37,Male,108938.32,2019-09-29,True,Fast Learner
+604,Quincy,24,Female,71905.86,2018-08-18,True,Reliable
+605,Ivy,27,Other,43968.25,2022-02-11,False,Consistent
+606,Leo,46,Other,72290.66,2023-06-01,True,Hardworking
+607,Paul,31,Other,39106.36,2020-05-09,False,Versatile
+608,Oscar,59,Female,65168.74,2018-12-18,True,Reliable
+609,Nancy,32,Other,44964.88,2021-02-11,False,Reliable
+610,Hannah,30,Other,50331.56,2023-02-26,False,Detail-Oriented
+611,Ivy,56,Other,54123.77,2024-03-13,False,Diligent
+612,Charlie,45,Female,92122.0,2019-12-26,True,Needs Improvement
+613,Steve,31,Other,96780.06,2020-12-20,True,Hardworking
+614,Hannah,23,Male,97537.36,2015-10-01,False,Passionate
+615,Rachel,43,Female,112498.63,2015-03-03,False,Logical
+616,Bob,29,Other,102586.54,2021-12-15,False,Enthusiastic
+617,Alice,20,Male,37953.15,2023-05-15,True,Innovative
+618,Jack,44,Other,31191.29,2018-03-08,False,Detail-Oriented
+619,Hannah,42,Female,97787.72,2024-08-13,True,Consistent
+620,Steve,56,Other,96620.4,2019-09-09,True,Curious
+621,Bob,58,Female,60784.75,2020-07-26,True,Diligent
+622,Bob,54,Female,36877.47,2017-12-02,False,Excellent
+623,Tina,32,Other,69379.07,2016-07-16,False,Logical
+624,Steve,57,Female,46447.25,2015-04-09,False,Innovative
+625,Quincy,33,Male,116385.08,2022-11-12,True,Analytical
+626,Steve,60,Female,111251.34,2024-08-17,False,Excellent
+627,Paul,52,Female,111189.78,2019-03-15,False,Great Team Player
+628,Leo,55,Male,80213.61,2020-08-15,True,Diligent
+629,Quincy,60,Other,88942.34,2015-06-10,True,Fast Learner
+630,Rachel,49,Other,45346.38,2019-05-14,True,Reliable
+631,David,60,Female,31303.04,2021-10-17,False,Great Team Player
+632,Tina,30,Female,113899.27,2015-10-08,False,Great Team Player
+633,Oscar,38,Female,84234.67,2017-03-16,False,Passionate
+634,Kathy,29,Male,48300.82,2020-08-03,True,Detail-Oriented
+635,Grace,46,Male,91687.84,2017-07-30,False,Analytical
+636,Hannah,59,Male,39887.61,2020-05-25,False,Hardworking
+637,Tina,53,Male,40795.81,2024-08-01,True,Hardworking
+638,Leo,50,Female,88628.99,2016-08-18,True,Passionate
+639,Alice,45,Female,50403.58,2018-12-30,True,Fast Learner
+640,Frank,54,Male,64420.79,2016-03-14,True,Versatile
+641,Alice,44,Other,97274.29,2023-04-28,False,Hardworking
+642,Steve,32,Other,115198.14,2022-04-08,True,Dedicated
+643,Nancy,53,Male,85901.66,2018-07-13,False,Consistent
+644,Eve,41,Male,68273.79,2020-02-28,False,Curious
+645,Nancy,50,Male,37388.98,2016-07-13,True,Diligent
+646,Jack,22,Other,76176.41,2019-03-24,False,Punctual
+647,Tina,41,Female,98927.67,2020-10-10,True,Motivated
+648,Charlie,34,Male,65101.06,2020-03-13,False,Hardworking
+649,Hannah,28,Other,82036.16,2023-09-13,False,Creative
+650,Nancy,58,Other,94858.51,2022-08-03,True,Hardworking
+651,Leo,38,Other,117103.06,2015-07-06,True,Great Team Player
+652,Leo,51,Female,104813.14,2021-12-30,True,Logical
+653,Alice,34,Female,33115.55,2024-06-04,True,Hardworking
+654,Kathy,44,Male,51264.62,2021-12-28,False,Dedicated
+655,Rachel,40,Female,63209.7,2015-01-12,False,Consistent
+656,Paul,38,Other,106775.81,2018-12-06,False,Curious
+657,Hannah,50,Female,103772.33,2018-11-01,False,Curious
+658,Ivy,24,Other,92427.93,2022-07-25,False,Detail-Oriented
+659,Nancy,24,Male,102416.39,2018-07-18,False,Innovative
+660,Leo,31,Male,116144.73,2017-07-08,True,Great Team Player
+661,Leo,49,Other,59027.76,2019-04-15,True,Innovative
+662,Paul,51,Male,114107.72,2016-09-30,False,Great Team Player
+663,Hannah,44,Male,103108.63,2021-02-20,False,Passionate
+664,Jack,57,Male,37731.73,2017-11-25,True,Reliable
+665,Charlie,47,Female,30850.39,2019-07-31,True,Dedicated
+666,Bob,54,Other,105004.48,2022-10-29,True,Versatile
+667,Paul,26,Male,116339.37,2018-01-11,False,Excellent
+668,Eve,27,Other,105656.03,2020-03-18,False,Logical
+669,Quincy,36,Other,75890.17,2015-01-31,True,Analytical
+670,Frank,42,Female,59990.86,2020-09-30,True,Detail-Oriented
+671,Paul,28,Male,36329.12,2020-09-26,False,Fast Learner
+672,Bob,41,Male,48132.86,2024-09-14,False,Diligent
+673,Quincy,29,Male,106917.86,2021-07-22,False,Passionate
+674,Steve,38,Male,109565.07,2017-05-18,False,Great Team Player
+675,Tina,32,Female,78509.21,2016-11-12,False,Analytical
+676,Kathy,29,Other,90650.57,2024-08-18,True,Hardworking
+677,Tina,41,Male,92055.63,2017-12-15,True,Innovative
+678,Jack,56,Female,85984.7,2017-02-10,False,Excellent
+679,Ivy,45,Other,86628.08,2021-10-26,False,Creative
+680,Quincy,52,Male,86228.08,2019-08-21,True,Reliable
+681,Steve,59,Other,116127.32,2018-11-12,False,Fast Learner
+682,Steve,22,Female,113931.99,2019-03-16,True,Reliable
+683,Mona,38,Female,79930.08,2022-02-21,True,Excellent
+684,Eve,31,Female,66591.37,2017-05-21,False,Curious
+685,Oscar,41,Female,49211.91,2015-03-27,True,Versatile
+686,Steve,52,Female,78721.76,2016-08-07,False,Detail-Oriented
+687,Ivy,33,Male,111441.25,2019-08-07,True,Logical
+688,Leo,29,Female,101256.17,2016-09-07,False,Detail-Oriented
+689,Charlie,49,Other,75876.47,2020-12-19,True,Logical
+690,Tina,33,Female,59357.95,2018-01-02,True,Creative
+691,Ivy,43,Male,33988.84,2018-09-06,False,Reliable
+692,Rachel,40,Female,48576.38,2018-09-14,True,Logical
+693,Alice,50,Male,41830.39,2015-08-31,False,Detail-Oriented
+694,Leo,29,Male,108571.78,2023-01-28,True,Great Team Player
+695,Grace,60,Male,87674.65,2016-07-15,False,Enthusiastic
+696,Bob,29,Male,75398.8,2015-03-30,False,Dedicated
+697,Paul,50,Other,51070.36,2020-08-22,True,Consistent
+698,Paul,59,Female,40978.73,2017-02-03,True,Motivated
+699,Frank,25,Other,73815.28,2023-07-26,True,Motivated
+700,Kathy,56,Other,101844.12,2017-08-15,False,Great Team Player
+701,Bob,34,Female,118043.69,2015-12-07,True,Diligent
+702,Steve,44,Other,35066.13,2016-06-03,True,Dedicated
+703,Hannah,38,Female,39431.42,2018-10-03,True,Dedicated
+704,Hannah,43,Other,119683.93,2017-01-30,False,Motivated
+705,Tina,46,Other,68669.59,2016-04-02,False,Diligent
+706,Kathy,33,Female,79108.4,2021-06-13,True,Great Team Player
+707,Hannah,46,Female,68952.9,2022-01-26,True,Innovative
+708,Charlie,56,Other,117280.79,2018-07-06,True,Punctual
+709,Hannah,39,Male,91804.0,2020-11-10,False,Consistent
+710,David,23,Male,94316.1,2017-08-01,True,Dedicated
+711,Frank,25,Female,114297.11,2018-01-14,True,Fast Learner
+712,Charlie,59,Other,31030.28,2017-11-21,True,Logical
+713,Eve,53,Male,64596.18,2018-12-20,True,Logical
+714,Paul,57,Other,46681.89,2023-06-21,True,Consistent
+715,Rachel,60,Other,54115.12,2017-08-14,False,Punctual
+716,Rachel,59,Female,37177.18,2021-07-27,False,Versatile
+717,Rachel,24,Other,45322.58,2024-04-24,True,Detail-Oriented
+718,Hannah,23,Female,71031.79,2022-03-21,False,Versatile
+719,Grace,46,Other,79083.27,2019-09-18,True,Fast Learner
+720,Hannah,31,Female,68849.29,2023-04-25,False,Enthusiastic
+721,Charlie,53,Male,117136.11,2022-08-15,True,Enthusiastic
+722,Kathy,28,Other,92900.65,2019-10-23,True,Consistent
+723,Rachel,30,Female,38330.46,2015-05-20,True,Hardworking
+724,Hannah,29,Female,55883.61,2019-06-12,True,Creative
+725,Nancy,52,Male,102712.14,2020-01-19,True,Analytical
+726,Paul,39,Male,73125.12,2015-02-16,True,Enthusiastic
+727,Eve,55,Male,73679.97,2016-11-30,True,Reliable
+728,Leo,58,Male,50152.37,2017-10-02,True,Dedicated
+729,Leo,29,Male,35789.77,2020-02-29,False,Enthusiastic
+730,Paul,57,Other,79775.82,2024-03-11,True,Curious
+731,Grace,31,Female,77207.21,2015-02-11,True,Great Team Player
+732,Grace,32,Female,69054.64,2021-07-17,False,Consistent
+733,Eve,58,Male,71442.55,2021-07-08,True,Enthusiastic
+734,Jack,29,Female,79227.16,2022-06-25,False,Dedicated
+735,Kathy,54,Female,75163.66,2020-12-30,True,Motivated
+736,Kathy,38,Other,69176.36,2022-09-19,False,Analytical
+737,Oscar,25,Female,87392.0,2018-07-22,False,Fast Learner
+738,Grace,44,Male,37280.35,2017-08-24,False,Great Team Player
+739,Paul,32,Male,53087.84,2018-08-08,True,Innovative
+740,Bob,39,Female,45576.11,2024-09-16,False,Hardworking
+741,Rachel,45,Female,83597.43,2020-05-23,True,Diligent
+742,Leo,34,Other,96168.72,2019-10-05,True,Analytical
+743,Frank,28,Female,77911.04,2023-03-02,True,Analytical
+744,Ivy,58,Male,103948.02,2017-06-14,False,Fast Learner
+745,Alice,28,Male,74209.94,2020-05-24,False,Passionate
+746,David,44,Other,32980.38,2016-03-27,True,Needs Improvement
+747,Alice,29,Male,97331.66,2023-12-19,True,Logical
+748,Leo,29,Other,32243.77,2020-08-01,True,Dedicated
+749,Charlie,33,Other,95398.17,2018-12-27,True,Creative
+750,Frank,27,Female,83173.25,2016-12-14,True,Passionate
+751,Eve,43,Female,85355.87,2015-03-24,True,Curious
+752,Frank,47,Male,70576.52,2022-11-05,True,Fast Learner
+753,Paul,37,Male,114018.37,2017-11-01,True,Motivated
+754,Quincy,44,Male,109415.82,2021-07-14,False,Fast Learner
+755,Grace,48,Other,117589.58,2021-09-29,True,Enthusiastic
+756,Frank,20,Female,31900.48,2020-11-16,True,Logical
+757,Paul,30,Female,111076.13,2019-02-28,False,Logical
+758,Hannah,48,Female,74415.14,2015-11-09,True,Needs Improvement
+759,Eve,40,Female,110127.52,2021-08-21,False,Creative
+760,Eve,59,Male,43871.3,2020-03-11,True,Dedicated
+761,Hannah,40,Male,98897.56,2018-03-25,False,Creative
+762,Ivy,54,Female,60400.63,2015-01-01,True,Analytical
+763,Mona,25,Female,30353.42,2016-02-01,False,Hardworking
+764,Rachel,33,Other,99191.37,2021-01-29,False,Diligent
+765,Frank,59,Male,71485.96,2023-12-10,True,Hardworking
+766,Nancy,38,Female,68638.42,2024-09-05,False,Versatile
+767,Oscar,40,Female,78185.81,2017-09-07,True,Excellent
+768,Mona,57,Female,63773.51,2024-09-27,True,Logical
+769,Kathy,31,Male,100182.52,2024-10-22,False,Logical
+770,Grace,31,Other,47444.1,2021-07-12,False,Versatile
+771,Oscar,47,Female,117181.44,2018-07-07,True,Passionate
+772,Leo,44,Female,38395.7,2017-11-16,False,Dedicated
+773,Jack,23,Other,48173.25,2023-11-04,False,Excellent
+774,Grace,60,Male,37346.06,2023-02-17,False,Versatile
+775,David,26,Male,88506.36,2018-05-15,True,Curious
+776,Leo,56,Male,31950.4,2016-08-15,False,Hardworking
+777,Steve,23,Other,91880.44,2017-05-27,False,Consistent
+778,Alice,44,Female,37211.42,2018-04-16,False,Punctual
+779,Eve,35,Male,51331.42,2015-09-17,False,Detail-Oriented
+780,Kathy,50,Female,38351.97,2015-02-21,False,Analytical
+781,Bob,28,Other,85719.38,2019-01-04,True,Curious
+782,Mona,45,Male,93088.34,2022-01-23,True,Great Team Player
+783,Grace,57,Other,103999.41,2022-06-26,True,Analytical
+784,Steve,37,Female,82383.9,2015-02-13,True,Diligent
+785,Quincy,30,Male,72384.7,2024-03-26,True,Excellent
+786,Alice,55,Male,62163.75,2023-04-15,False,Diligent
+787,Alice,50,Female,49016.81,2018-01-18,False,Punctual
+788,Tina,29,Female,38520.49,2019-12-10,True,Fast Learner
+789,Bob,28,Male,67398.17,2022-04-15,False,Punctual
+790,Frank,41,Male,30831.93,2016-02-08,True,Passionate
+791,Charlie,43,Other,108034.78,2015-04-11,False,Analytical
+792,Bob,40,Female,77893.56,2015-11-02,True,Detail-Oriented
+793,Bob,50,Male,33297.86,2019-06-16,True,Fast Learner
+794,Quincy,36,Female,39720.18,2018-11-20,True,Curious
+795,David,40,Other,38187.28,2019-03-03,True,Versatile
+796,Mona,31,Male,88467.77,2024-07-11,True,Great Team Player
+797,David,20,Male,61600.85,2017-03-16,False,Innovative
+798,Jack,28,Other,103258.57,2023-01-28,False,Consistent
+799,Charlie,48,Male,77702.76,2019-03-27,False,Needs Improvement
+800,Kathy,35,Other,62719.65,2021-06-18,True,Dedicated
+801,Kathy,42,Other,78817.34,2017-11-04,True,Versatile
+802,Oscar,44,Male,51983.04,2024-07-23,True,Innovative
+803,Charlie,44,Female,98077.27,2020-09-21,False,Needs Improvement
+804,Alice,27,Female,67568.04,2016-10-21,False,Analytical
+805,Rachel,20,Female,40240.91,2015-05-02,True,Detail-Oriented
+806,Grace,59,Male,111756.94,2017-01-04,False,Diligent
+807,Rachel,40,Female,83372.83,2023-12-10,True,Enthusiastic
+808,Jack,55,Male,40003.22,2022-04-23,False,Logical
+809,Hannah,45,Other,73952.64,2015-08-26,False,Diligent
+810,Charlie,48,Male,59195.72,2016-03-17,True,Needs Improvement
+811,Alice,25,Female,107210.95,2018-07-30,True,Passionate
+812,Jack,40,Other,42685.42,2022-09-13,True,Dedicated
+813,Rachel,47,Female,86698.14,2021-12-20,False,Excellent
+814,Tina,47,Male,75487.87,2023-10-26,False,Needs Improvement
+815,Frank,56,Other,66943.22,2018-03-04,False,Curious
+816,Nancy,36,Other,108236.16,2017-09-28,False,Great Team Player
+817,Bob,31,Female,86015.89,2023-10-26,True,Diligent
+818,Mona,51,Female,89744.34,2021-07-29,False,Detail-Oriented
+819,Charlie,46,Female,35321.08,2024-03-05,False,Creative
+820,Nancy,40,Other,53678.35,2017-03-02,True,Great Team Player
+821,Frank,58,Female,83252.06,2021-05-30,True,Curious
+822,Bob,58,Female,39546.76,2022-02-11,True,Punctual
+823,Frank,51,Female,72733.83,2017-04-26,False,Great Team Player
+824,Leo,34,Male,96022.15,2016-06-02,True,Detail-Oriented
+825,Charlie,37,Female,32837.65,2023-04-02,False,Enthusiastic
+826,Nancy,59,Female,102430.74,2024-07-20,True,Passionate
+827,Bob,22,Other,91115.42,2018-08-20,False,Needs Improvement
+828,Leo,23,Female,64685.57,2016-09-28,False,Curious
+829,Quincy,23,Other,78466.9,2020-12-27,False,Versatile
+830,Grace,58,Male,57375.94,2017-10-26,True,Logical
+831,Steve,52,Other,107556.81,2016-02-27,True,Passionate
+832,Nancy,54,Other,90078.9,2015-03-04,False,Diligent
+833,Hannah,46,Female,115737.66,2020-10-05,True,Creative
+834,David,51,Other,88165.11,2017-12-27,False,Analytical
+835,David,32,Other,37193.02,2022-05-23,True,Creative
+836,David,27,Other,31654.49,2023-10-11,False,Punctual
+837,Steve,36,Male,71643.76,2023-12-31,False,Diligent
+838,Leo,37,Other,82973.35,2017-01-20,True,Dedicated
+839,Mona,56,Other,49074.38,2017-07-31,True,Motivated
+840,Ivy,51,Male,100641.15,2019-07-24,True,Motivated
+841,Steve,25,Male,104073.07,2017-09-25,False,Punctual
+842,Steve,39,Female,85690.41,2020-05-24,True,Curious
+843,Ivy,58,Female,106094.83,2018-05-12,True,Motivated
+844,Hannah,42,Female,113776.93,2022-01-11,True,Detail-Oriented
+845,Charlie,51,Male,45248.74,2015-08-14,False,Versatile
+846,Paul,55,Male,58363.42,2020-05-05,False,Logical
+847,Kathy,20,Male,97303.23,2018-09-22,False,Creative
+848,David,20,Other,30225.83,2024-01-04,True,Punctual
+849,Jack,49,Other,85456.74,2024-11-10,True,Logical
+850,Nancy,59,Female,31989.46,2022-03-24,True,Needs Improvement
+851,Ivy,51,Female,61202.44,2024-12-26,False,Curious
+852,Eve,25,Other,92481.84,2017-04-04,False,Innovative
+853,Quincy,52,Male,92461.57,2018-02-26,False,Fast Learner
+854,Steve,40,Other,75933.15,2020-07-17,False,Versatile
+855,David,26,Other,41383.74,2023-07-30,False,Fast Learner
+856,Nancy,34,Other,111688.72,2018-03-25,False,Curious
+857,Quincy,56,Female,64719.42,2022-09-25,False,Excellent
+858,David,39,Other,45858.52,2024-07-12,True,Innovative
+859,Grace,57,Female,67167.05,2015-04-13,False,Motivated
+860,Charlie,26,Female,48704.15,2016-02-18,False,Enthusiastic
+861,Ivy,50,Female,64284.07,2022-08-26,False,Innovative
+862,Charlie,20,Male,68482.75,2017-11-22,True,Creative
+863,Alice,26,Male,35256.87,2017-11-19,False,Fast Learner
+864,Bob,29,Female,68063.74,2015-05-08,False,Excellent
+865,Grace,39,Other,63756.49,2020-01-29,False,Punctual
+866,Bob,52,Other,99623.01,2016-03-20,True,Needs Improvement
+867,Leo,55,Female,49636.63,2024-03-11,True,Enthusiastic
+868,Grace,28,Other,107374.2,2018-04-24,True,Hardworking
+869,Steve,30,Female,87005.86,2020-02-15,True,Analytical
+870,Frank,30,Female,31614.05,2018-12-29,False,Creative
+871,Quincy,47,Other,118745.05,2020-04-23,True,Detail-Oriented
+872,Bob,24,Other,103482.39,2016-12-26,False,Punctual
+873,Nancy,42,Female,45442.31,2018-03-03,False,Diligent
+874,Ivy,43,Female,86243.14,2024-03-12,True,Enthusiastic
+875,Bob,31,Other,86154.88,2022-12-12,False,Passionate
+876,Oscar,58,Female,116351.94,2018-04-29,False,Great Team Player
+877,Jack,52,Female,35674.44,2024-04-01,False,Curious
+878,Kathy,22,Other,75869.69,2020-06-17,True,Dedicated
+879,Leo,34,Other,114081.14,2018-11-26,False,Needs Improvement
+880,David,55,Male,72716.41,2018-03-05,False,Fast Learner
+881,Quincy,35,Female,66054.08,2022-04-21,False,Logical
+882,Eve,22,Female,91794.6,2018-01-13,False,Hardworking
+883,Charlie,23,Female,101998.07,2016-10-11,False,Needs Improvement
+884,Leo,37,Female,111717.09,2019-12-18,False,Logical
+885,Frank,33,Male,67458.83,2021-10-08,False,Diligent
+886,Mona,28,Female,54088.06,2024-11-20,True,Curious
+887,Hannah,31,Female,87420.4,2021-11-12,False,Hardworking
+888,Steve,38,Male,113925.34,2018-08-13,True,Enthusiastic
+889,David,38,Other,118875.0,2023-06-16,True,Punctual
+890,Grace,26,Female,100220.13,2020-08-21,False,Hardworking
+891,Kathy,50,Female,52205.69,2024-05-16,False,Consistent
+892,Eve,54,Female,114596.02,2021-11-12,True,Diligent
+893,Frank,46,Other,76069.83,2024-09-14,False,Dedicated
+894,Paul,49,Female,63889.97,2019-11-23,True,Excellent
+895,Rachel,33,Male,92318.33,2016-03-16,False,Innovative
+896,Tina,23,Female,101946.86,2017-10-01,False,Diligent
+897,Kathy,54,Other,38549.17,2019-06-02,False,Logical
+898,Paul,34,Other,93301.01,2023-12-24,False,Excellent
+899,Leo,35,Female,61291.37,2019-02-13,False,Passionate
+900,Leo,53,Male,113189.87,2024-01-10,False,Analytical
+901,Mona,55,Other,36056.47,2023-07-06,False,Logical
+902,Ivy,52,Female,66473.77,2024-07-07,True,Reliable
+903,Bob,40,Other,100541.46,2016-02-23,True,Analytical
+904,Eve,53,Female,114628.4,2018-06-08,False,Consistent
+905,David,54,Other,61796.56,2022-12-28,False,Detail-Oriented
+906,Paul,51,Male,51668.07,2020-07-29,True,Punctual
+907,Nancy,58,Male,67640.3,2017-09-17,False,Great Team Player
+908,David,45,Female,84429.72,2019-01-16,True,Creative
+909,Nancy,37,Male,117608.51,2015-12-02,False,Logical
+910,Jack,44,Female,54346.03,2017-05-17,False,Logical
+911,Mona,53,Male,70315.49,2020-09-29,False,Reliable
+912,David,43,Other,67032.87,2024-11-29,False,Reliable
+913,Ivy,31,Female,100376.75,2015-02-10,True,Innovative
+914,Jack,25,Other,75966.32,2016-02-29,False,Creative
+915,Bob,22,Other,99432.94,2020-12-23,False,Punctual
+916,Steve,25,Male,116677.44,2021-02-14,False,Enthusiastic
+917,Frank,30,Male,42731.35,2023-04-09,False,Passionate
+918,Bob,51,Female,90273.93,2024-01-18,True,Dedicated
+919,Hannah,56,Male,82944.53,2017-03-07,False,Detail-Oriented
+920,Nancy,20,Female,71129.82,2015-07-18,False,Motivated
+921,Jack,60,Female,52450.53,2017-04-25,True,Reliable
+922,Rachel,56,Other,97081.85,2024-04-13,False,Logical
+923,Mona,48,Male,86359.23,2015-01-31,False,Innovative
+924,Paul,54,Male,61212.24,2021-09-11,True,Consistent
+925,Charlie,55,Male,57928.69,2019-08-19,False,Innovative
+926,Alice,31,Other,58032.49,2021-08-31,True,Excellent
+927,Eve,40,Male,56897.26,2018-09-13,True,Consistent
+928,Tina,31,Male,83048.7,2015-07-18,False,Reliable
+929,Steve,51,Male,70845.37,2024-02-25,True,Analytical
+930,Leo,52,Male,48485.88,2020-09-13,True,Fast Learner
+931,Jack,45,Female,51548.52,2019-10-01,False,Hardworking
+932,Ivy,26,Other,96457.19,2018-03-26,True,Passionate
+933,Leo,27,Female,55474.31,2015-02-10,True,Innovative
+934,Oscar,56,Other,45259.72,2017-09-25,True,Hardworking
+935,Charlie,27,Male,37761.24,2024-12-21,True,Curious
+936,Jack,40,Male,113126.03,2021-02-20,True,Passionate
+937,Charlie,36,Other,37042.6,2019-10-24,False,Logical
+938,Quincy,45,Female,94894.61,2015-02-10,True,Hardworking
+939,Kathy,60,Other,63534.75,2020-01-10,False,Dedicated
+940,Ivy,50,Male,90361.26,2024-07-12,True,Enthusiastic
+941,Grace,60,Female,72038.33,2015-10-07,False,Analytical
+942,Quincy,36,Female,64746.13,2019-12-20,True,Fast Learner
+943,Tina,43,Male,49442.55,2021-05-03,False,Enthusiastic
+944,Hannah,49,Female,45670.98,2016-11-12,False,Motivated
+945,Steve,28,Other,81313.24,2016-02-12,True,Hardworking
+946,Leo,26,Male,93461.01,2020-01-17,False,Excellent
+947,Grace,56,Male,40394.81,2020-01-21,True,Versatile
+948,Eve,45,Female,79011.8,2020-05-24,False,Hardworking
+949,Hannah,32,Female,104589.31,2022-03-18,True,Excellent
+950,Grace,41,Other,66241.21,2021-05-26,False,Logical
+951,Leo,33,Male,78497.09,2016-09-24,True,Diligent
+952,Jack,31,Male,100346.95,2016-11-15,True,Analytical
+953,Eve,44,Female,93385.45,2017-03-27,False,Consistent
+954,Kathy,46,Other,83822.68,2024-10-21,False,Analytical
+955,David,26,Other,91146.11,2023-09-03,False,Needs Improvement
+956,Grace,41,Female,42330.77,2023-03-02,True,Diligent
+957,Paul,26,Male,33684.96,2018-08-22,True,Enthusiastic
+958,Hannah,44,Male,46978.68,2023-11-24,True,Versatile
+959,Paul,42,Other,116454.06,2023-02-15,True,Motivated
+960,Nancy,47,Other,50270.71,2022-09-27,False,Curious
+961,Mona,55,Other,116192.78,2016-10-17,True,Dedicated
+962,Alice,44,Male,48597.51,2017-09-16,True,Motivated
+963,Jack,36,Male,82157.38,2024-12-22,False,Great Team Player
+964,Tina,54,Male,117693.52,2021-04-21,True,Excellent
+965,Hannah,30,Female,67807.38,2017-03-21,True,Detail-Oriented
+966,Grace,21,Male,33544.52,2018-11-22,True,Diligent
+967,Tina,56,Female,39133.96,2018-04-29,True,Diligent
+968,Oscar,45,Male,82829.84,2016-08-27,True,Consistent
+969,Bob,53,Male,48218.64,2024-10-03,False,Reliable
+970,Kathy,26,Other,60099.39,2020-06-11,True,Fast Learner
+971,Mona,33,Other,33211.36,2021-01-18,True,Detail-Oriented
+972,Mona,43,Female,58578.2,2023-05-28,False,Great Team Player
+973,Hannah,44,Other,115391.16,2023-02-19,False,Hardworking
+974,Quincy,52,Female,96242.06,2023-01-09,True,Analytical
+975,David,24,Male,99627.73,2018-07-25,False,Curious
+976,Tina,51,Male,31351.29,2016-11-13,False,Reliable
+977,Tina,31,Female,70020.12,2020-04-21,False,Consistent
+978,Bob,46,Female,114938.92,2024-01-11,True,Consistent
+979,Steve,49,Female,43150.75,2020-12-19,False,Creative
+980,Mona,41,Other,75675.61,2024-12-17,False,Logical
+981,Rachel,26,Male,92849.81,2017-01-11,True,Reliable
+982,Quincy,56,Male,98108.02,2017-10-23,True,Logical
+983,Paul,54,Male,94056.93,2021-04-24,True,Logical
+984,Charlie,40,Other,93125.48,2021-05-21,False,Dedicated
+985,Nancy,25,Female,103741.14,2020-05-06,False,Curious
+986,Bob,54,Other,110694.34,2018-05-26,False,Passionate
+987,Frank,35,Male,117459.08,2018-02-08,False,Dedicated
+988,Grace,57,Female,115890.53,2018-06-15,True,Great Team Player
+989,Tina,26,Female,46400.8,2021-08-24,False,Innovative
+990,Hannah,55,Male,71094.91,2023-01-13,False,Punctual
+991,Kathy,57,Male,49940.91,2015-01-24,False,Detail-Oriented
+992,Hannah,20,Other,103387.57,2015-03-30,False,Analytical
+993,Kathy,25,Male,119009.44,2019-06-25,True,Analytical
+994,Kathy,26,Male,45138.01,2020-10-28,False,Passionate
+995,Bob,57,Other,36669.02,2015-11-19,False,Reliable
+996,Jack,58,Male,34288.04,2020-01-18,True,Reliable
+997,Jack,46,Other,97404.78,2023-11-22,True,Innovative
+998,Kathy,53,Male,51242.03,2023-05-30,True,Enthusiastic
+999,Mona,48,Other,34117.08,2017-08-15,True,Motivated
+1000,Rachel,45,Female,43198.5,2015-12-02,True,Dedicated
